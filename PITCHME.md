@@ -18,7 +18,10 @@
 
 ## 好きなことで生きて行く
 +++
-- 画像をモザイクかけて表示
+![alt](assets/yu_money1_censored.jpg)
++++
+![alt](assets/hqdefault_censored.jpg)
+
 
 ---
 
