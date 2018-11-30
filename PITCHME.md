@@ -18,9 +18,9 @@
 
 ## 好きなことで生きて行く
 +++
-![alt](assets/yu_money1_censored.jpg)
+![alt](yu_money1_censored.jpg)
 +++
-![alt](assets/hqdefault_censored.jpg)
+![alt](hqdefault_censored.jpg)
 
 
 ---
